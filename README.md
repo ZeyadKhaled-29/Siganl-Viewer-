@@ -33,3 +33,7 @@ The Multi-Port, Multi-Channel Signal Viewer is a desktop application developed i
 This application was developed as a task project, inspired by the need for efficient signal monitoring tools in medical environments. We thank the creators of PyQt5 and the Python community for their contributions to open-source software development.
 
 
+[signal viewer.mp4…](https://github.com/ZeyadKhaled-29/Siganl-Viewer-/assets/161847692/fbbc6e7d-a0e4-43e0-898c-e934a7c618f3)
+
+
+
